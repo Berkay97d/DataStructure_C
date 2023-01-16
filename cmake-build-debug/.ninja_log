@@ -1,21 +1,3 @@
 # ninja log v5
-1	91	6955107796131329	CMakeFiles/DataStructure_C.dir/main.c.obj	2ecbaf75dde7112
-92	206	6955107797261926	DataStructure_C.exe	93772922cc4e0d2b
-2	81	6955113219664344	CMakeFiles/DataStructure_C.dir/main.c.obj	2ecbaf75dde7112
-81	165	6955113220480944	DataStructure_C.exe	93772922cc4e0d2b
-1	64	6955113691348837	CMakeFiles/DataStructure_C.dir/main.c.obj	2ecbaf75dde7112
-65	138	6955113692055997	DataStructure_C.exe	93772922cc4e0d2b
-1	69	6955113876185779	CMakeFiles/DataStructure_C.dir/main.c.obj	2ecbaf75dde7112
-70	150	6955113876963696	DataStructure_C.exe	93772922cc4e0d2b
-2	68	6955114234556265	CMakeFiles/DataStructure_C.dir/main.c.obj	2ecbaf75dde7112
-68	148	6955114235324234	DataStructure_C.exe	93772922cc4e0d2b
-3	73	6955218112419680	CMakeFiles/DataStructure_C.dir/main.c.obj	2ecbaf75dde7112
-73	155	6955218113204882	DataStructure_C.exe	93772922cc4e0d2b
-1	69	6955218257826541	CMakeFiles/DataStructure_C.dir/main.c.obj	2ecbaf75dde7112
-70	150	6955218258599530	DataStructure_C.exe	93772922cc4e0d2b
-1	63	6955218332708221	CMakeFiles/DataStructure_C.dir/main.c.obj	2ecbaf75dde7112
-63	139	6955218333433935	DataStructure_C.exe	93772922cc4e0d2b
-2	67	6955218471676414	CMakeFiles/DataStructure_C.dir/main.c.obj	2ecbaf75dde7112
-68	142	6955218472394501	DataStructure_C.exe	93772922cc4e0d2b
 2	66	6955218523158102	CMakeFiles/DataStructure_C.dir/main.c.obj	2ecbaf75dde7112
 66	155	6955218524005830	DataStructure_C.exe	93772922cc4e0d2b
